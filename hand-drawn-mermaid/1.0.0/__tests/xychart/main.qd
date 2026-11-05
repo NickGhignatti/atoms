@@ -1,0 +1,8 @@
+.include {../../main.qd}
+
+```mermaid
+xychart-beta
+    x-axis [jan, feb]
+    y-axis "Sales" 0 --> 100
+    bar [10, 60]
+```

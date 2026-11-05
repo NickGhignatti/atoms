@@ -1,0 +1,7 @@
+.include {../../main.qd}
+
+```mermaid
+block-beta
+    columns 2
+    a["A"] b["B"]
+```

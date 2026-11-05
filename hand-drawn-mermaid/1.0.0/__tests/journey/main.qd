@@ -1,0 +1,8 @@
+.include {../../main.qd}
+
+```mermaid
+journey
+    title My day
+    section Morning
+      Wake up: 3: Me
+```

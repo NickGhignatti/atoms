@@ -1,0 +1,10 @@
+[atom]
+name = "hand-drawn-mermaid"
+version = "1.0.0"
+entrypoint = "main.qd"
+description = "Style in a hand-drawn fashion the rendering for mermaid diagrams"
+authors = [ "Nicolò Ghignatti <https://nickghignatti.github.io/>" ]
+license = "Apache-2.0"
+categories = ["layout"]
+repository = "https://https://github.com/NickGhignatti/atoms"
+min-quarkdown = "2.6.4"

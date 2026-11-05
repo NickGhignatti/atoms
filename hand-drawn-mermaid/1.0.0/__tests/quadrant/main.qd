@@ -1,0 +1,9 @@
+.include {../../main.qd}
+
+```mermaid
+quadrantChart
+    title Reach
+    x-axis Low --> High
+    y-axis Low --> High
+    Campaign A: [0.3, 0.6]
+```
