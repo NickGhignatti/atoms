@@ -1,11 +1,10 @@
 .include {../../main.qd}
 
-```mermaid
-requirementDiagram
-    requirement test_req {
-    id: 1
-    text: the test
-    risk: high
-    verifymethod: test
-    }
-```
+.mermaid
+    requirementDiagram
+        requirement test_req {
+        id: 1
+        text: the test
+        risk: high
+        verifymethod: test
+        }

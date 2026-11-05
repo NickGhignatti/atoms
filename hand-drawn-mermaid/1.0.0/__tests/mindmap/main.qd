@@ -1,7 +1,6 @@
 .include {../../main.qd}
 
-```mermaid
-mindmap
-  root((Atoms))
-    Packages
-```
+.mermaid
+    mindmap
+      root((Atoms))
+        Packages

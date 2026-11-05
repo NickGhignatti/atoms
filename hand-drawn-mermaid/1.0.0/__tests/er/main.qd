@@ -1,6 +1,5 @@
 .include {../../main.qd}
 
-```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-```
+.mermaid
+    erDiagram
+        CUSTOMER ||--o{ ORDER : places

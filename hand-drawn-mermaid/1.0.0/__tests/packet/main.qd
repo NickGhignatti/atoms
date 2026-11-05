@@ -1,6 +1,5 @@
 .include {../../main.qd}
 
-```mermaid
-packet-beta
-0-15: "Source port"
-```
+.mermaid
+    packet-beta
+    0-15: "Source port"

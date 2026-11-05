@@ -1,8 +1,7 @@
 .include {../../main.qd}
 
-```mermaid
-timeline
-    title History
-    2024 : Start
-    2025 : Launch
-```
+.mermaid
+    timeline
+        title History
+        2024 : Start
+        2025 : Launch

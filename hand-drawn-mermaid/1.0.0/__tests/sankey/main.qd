@@ -1,7 +1,6 @@
 .include {../../main.qd}
 
-```mermaid
-sankey-beta
+.mermaid
+    sankey-beta
 
-Source,Target,10
-```
+        Source,Target,10

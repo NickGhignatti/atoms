@@ -1,7 +1,6 @@
 .include {../../main.qd}
 
-```mermaid
-kanban
-  Todo
-    [Task one]
-```
+.mermaid
+    kanban
+      Todo
+        [Task one]

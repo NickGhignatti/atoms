@@ -1,7 +1,6 @@
 .include {../../main.qd}
 
-```mermaid
-classDiagram
-    Animal <|-- Dog
-    Animal : +String name
-```
+.mermaid
+    classDiagram
+        Animal <|-- Dog
+        Animal : +String name

@@ -1,8 +1,7 @@
 .include {../../main.qd}
 
-```mermaid
-gantt
-    title Plan
-    dateFormat YYYY-MM-DD
-    Design :a1, 2026-01-01, 3d
-```
+.mermaid
+    gantt
+        title Plan
+        dateFormat YYYY-MM-DD
+        Design :a1, 2026-01-01, 3d

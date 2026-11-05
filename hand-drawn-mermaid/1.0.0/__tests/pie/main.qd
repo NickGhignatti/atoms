@@ -1,7 +1,6 @@
 .include {../../main.qd}
 
-```mermaid
-pie title Pets
-    "Dogs" : 386
-    "Cats" : 85
-```
+.mermaid
+    pie title Pets
+        "Dogs" : 386
+        "Cats" : 85
