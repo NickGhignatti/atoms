@@ -1,7 +1,0 @@
-.include {../../main.qd}
-
-.mermaid
-    C4Context
-        Person(user, "User")
-        System(app, "App")
-        Rel(user, app, "Uses")

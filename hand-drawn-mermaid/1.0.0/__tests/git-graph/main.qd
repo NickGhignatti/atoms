@@ -1,7 +1,0 @@
-.include {../../main.qd}
-
-.mermaid
-    gitGraph
-        commit
-        branch dev
-        commit

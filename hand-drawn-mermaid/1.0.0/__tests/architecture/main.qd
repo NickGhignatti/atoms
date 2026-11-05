@@ -1,5 +1,0 @@
-.include {../../main.qd}
-
-.mermaid
-    architecture-beta
-        service db(database)[Database]

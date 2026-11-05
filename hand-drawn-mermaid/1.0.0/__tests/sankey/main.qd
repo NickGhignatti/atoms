@@ -1,6 +1,0 @@
-.include {../../main.qd}
-
-.mermaid
-    sankey-beta
-
-        Source,Target,10
