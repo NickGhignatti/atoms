@@ -2,4 +2,4 @@
 
 This atom provides a hand-drawn style for rendering mermaid diagrams.
 
-![examples-mermaid](__images/image.png)
+![examples-mermaid](__images/preview.png)
