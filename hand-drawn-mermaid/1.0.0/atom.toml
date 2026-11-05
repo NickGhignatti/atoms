@@ -5,6 +5,5 @@ entrypoint = "main.qd"
 description = "Style in a hand-drawn fashion the rendering for mermaid diagrams"
 authors = [ "Nicolò Ghignatti <https://nickghignatti.github.io/>" ]
 license = "Apache-2.0"
-categories = ["layout", "rendering", "diagram", "mermaid"]
+categories = ["style"]
 repository = "https://github.com/NickGhignatti/atoms"
-min-quarkdown = "2.7.0"
