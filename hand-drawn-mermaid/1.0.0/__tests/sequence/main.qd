@@ -1,0 +1,6 @@
+.include {../../main.qd}
+
+.mermaid
+    sequenceDiagram
+        Alice->>Bob: Hello
+        Bob-->>Alice: Hi

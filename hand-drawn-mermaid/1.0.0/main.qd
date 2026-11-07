@@ -1,0 +1,21 @@
+.css
+    .mermaid {
+        --qd-mermaid-node-background-color: white;
+        --qd-mermaid-node-border-color: var(--qd-main-color);
+    }
+    .mermaid text,
+    .mermaid tspan {
+        fill: var(--qd-main-color);
+    }
+    .mermaid path[stroke="#999"] {
+        stroke: color-mix(in srgb, var(--qd-main-color) 40%, transparent);
+    }
+    /* width=4 from mermaid, stroke=white from svg2roughjs */
+    .mermaid path[stroke-width="4"],
+    .mermaid path[stroke="rgb(255, 255, 255)"] {
+        stroke: color-mix(in srgb, var(--qd-main-color) 7%, transparent);
+    }
+
+.html {<script>.read {svg2roughjs.umd.min.js}</script>}
+
+.html {<script>.read {hand-drawn-mermaid.js}</script>}
